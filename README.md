@@ -63,7 +63,7 @@ python pso_path_planning.py
 
 ### Hand-Drawn Flowchart
 
-![Hand-Drawn Flowchart](flowchart.jpg)
+![Hand-Drawn Flowchart](results/flowchart.png)
 
 ## Student Information
 
